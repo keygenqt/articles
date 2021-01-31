@@ -1,24 +1,18 @@
-Articles
+Алгоритмы
 ---
 
-Устал писать код? Выходные? Есть свободное время? - Делюсь своими знаниями.
+![picture](images/preview.jpg)
 
-#### Философия
-
-* [Становление философии.](https://github.com/keygenqt/articles/tree/philosophy)
-* [Логика. Основы.](https://keygenqt.com/blog/logic-introduction)
-
-#### Программирование
-
-* [Алгоритмы. Основы.](https://keygenqt.com/blog/posts-algorithms1)
+Алгоритмы или очередной фреймворк? Во что вложиться? Для того, чтобы кодить, знание алгоритмизации не требуется, если ты знаешь инструмент который
+тебе поможет решить поставленную задачу. Но решил ли ты её наилучшим способом?
 
 ---
 
 ### On social media:
 
-[![picture](images/medium.png)](https://keygenqt.medium.com)
+[![picture](images/medium.png)](https://keygenqt.medium.com/алгоритмы-774ca3f03464)
 
 ### On website:
 
-[![picture](images/website.png)](https://keygenqt.com/blog)
+[![picture](images/website.png)](https://keygenqt.com/blog/posts-algorithms1)
 
