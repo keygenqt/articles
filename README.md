@@ -6,11 +6,10 @@ Articles
 #### Философия
 
 * [Становление философии.](https://github.com/keygenqt/articles/tree/philosophy)
-* [Логика. Основы.](https://keygenqt.com/blog/logic-introduction)
 
 #### Программирование
 
-* [Алгоритмы. Основы.](https://keygenqt.com/blog/posts-algorithms1)
+* [Алгоритмы. Основы.](https://github.com/keygenqt/articles/tree/algorithms)
 
 ---
 
