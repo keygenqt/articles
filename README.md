@@ -5,7 +5,7 @@ Articles
 
 #### Философия
 
-* [Становление философии.](https://keygenqt.com/blog/becoming)
+* [Становление философии.](https://github.com/keygenqt/articles/tree/philosophy)
 * [Логика. Основы.](https://keygenqt.com/blog/logic-introduction)
 
 #### Программирование
