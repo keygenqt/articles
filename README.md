@@ -1,26 +1,18 @@
-Articles
+Функциональные концепции
 ---
 
-Устал писать код? Выходные? Есть свободное время? - Делюсь своими знаниями.
+![picture](images/preview.png)
 
-#### Философия
+Coming soon
 
-* [Становление философии.](https://github.com/keygenqt/articles/tree/philosophy)
-* [Логика. Основы. (скоро)](https://keygenqt.com/blog)
-
-#### Программирование
-
-* [Алгоритмы. Основы.](https://github.com/keygenqt/articles/tree/algorithms)
-* [Функциональные концепции (скоро)](https://keygenqt.com/blog)
-* [Agail (скоро)](https://keygenqt.com/blog)
+[**More...**](https://github.com/keygenqt/articles/blob/fun/docs/article.md)
 
 ---
 
 ### On social media:
 
-[![picture](images/medium.png)](https://keygenqt.medium.com)
+[![picture](images/medium.png)](https://keygenqt.medium.com/)
 
 ### On website:
 
-[![picture](images/website.png)](https://keygenqt.com/blog)
-
+[![picture](images/website.png)](https://keygenqt.com/blog/)
