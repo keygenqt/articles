@@ -1,7 +1,7 @@
 Функциональные концепции
 ---
 
-![picture](images/preview.png)
+![picture](images/preview0.png)
 
 Coming soon
 
