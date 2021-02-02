@@ -6,13 +6,13 @@ Articles
 #### Философия
 
 * [Становление философии.](https://github.com/keygenqt/articles/tree/philosophy)
-* [Логика. Основы. (скоро)](https://keygenqt.com/blog)
+* [Формальная логика](https://github.com/keygenqt/articles/tree/logic)
 
 #### Программирование
 
 * [Алгоритмы. Основы.](https://github.com/keygenqt/articles/tree/algorithms)
-* [Функциональные концепции (скоро)](https://keygenqt.com/blog)
-* [Agail (скоро)](https://keygenqt.com/blog)
+* [Функциональные концепции](https://github.com/keygenqt/articles/tree/fun)
+* [Agail](https://github.com/keygenqt/articles/tree/agail)
 
 ---
 
