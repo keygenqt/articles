@@ -5,7 +5,7 @@
 
 Coming soon
 
-[**More...**](https://github.com/keygenqt/articles/blob/agail/docs/article.md)
+[**More...**](https://github.com/keygenqt/articles/blob/logic/docs/article.md)
 
 ---
 
