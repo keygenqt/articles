@@ -1,11 +1,11 @@
-Функциональные концепции
+Agail
 ---
 
 ![picture](images/preview.png)
 
 Coming soon
 
-[**More...**](https://github.com/keygenqt/articles/blob/fun/docs/article.md)
+[**More...**](https://github.com/keygenqt/articles/blob/agail/docs/article.md)
 
 ---
 
