@@ -6,8 +6,7 @@ Articles
 #### Программирование
 
 * [Алгоритмы. Основы.](https://github.com/keygenqt/articles/tree/algorithms)
-* [Функциональные концепции.](https://github.com/keygenqt/articles/tree/fun)
-* [Agail.](https://github.com/keygenqt/articles/tree/agail)
+* [Каррирование глазами android разработчика](https://github.com/keygenqt/currying/tree/currying)
 
 #### Философия
 
