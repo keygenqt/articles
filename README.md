@@ -7,6 +7,7 @@ Articles
 
 * [Алгоритмы. Основы.](https://github.com/keygenqt/articles/tree/algorithms)
 * [Каррирование глазами android разработчика](https://github.com/keygenqt/articles/tree/currying)
+* [Знакомство с Aurora OS](https://github.com/keygenqt/articles/tree/auroraos_acquaintance)
 
 #### Философия
 
@@ -14,10 +15,6 @@ Articles
 * [Формальная логика.](https://github.com/keygenqt/articles/tree/logic)
 
 ---
-
-### On social media:
-
-[![picture](images/medium.png)](https://keygenqt.medium.com)
 
 ### On website:
 
