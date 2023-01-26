@@ -6,7 +6,7 @@ Articles
 #### Программирование
 
 * [Алгоритмы. Основы.](https://github.com/keygenqt/articles/tree/algorithms)
-* [Каррирование глазами android разработчика](https://github.com/keygenqt/articles/tree/currying)
+* [Каррирование в Kotlin](https://github.com/keygenqt/articles/tree/currying)
 * [Знакомство с Aurora OS](https://github.com/keygenqt/articles/tree/auroraos_acquaintance)
 
 #### Философия
