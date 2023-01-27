@@ -1,7 +1,7 @@
 Articles
 ---
 
-![image1.gif](data%2Fimage1.gif)
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
 I share my knowledge. Publications are located on the site [https://keygenqt.com](https://keygenqt.com/blog)
 
@@ -15,6 +15,4 @@ I share my knowledge. Publications are located on the site [https://keygenqt.com
 
 * [Amazing Gif](https://github.com/keygenqt/articles/tree/amazing_gif)
 
-#### Philosophy
-
-* [Становление философии](https://github.com/keygenqt/articles/tree/philosophy)
+![image1.gif](data%2Fimage1.gif)
