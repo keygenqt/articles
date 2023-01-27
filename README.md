@@ -3,19 +3,18 @@ Articles
 
 ![image1.gif](data%2Fimage1.gif)
 
-Делюсь своими знаниями. Публикации расположены на сайте [https://keygenqt.com](https://keygenqt.com/blog)
+I share my knowledge. Publications are located on the site [https://keygenqt.com](https://keygenqt.com/blog)
 
-#### Программирование
+#### Programming
 
-* [Каррирование в Kotlin](https://github.com/keygenqt/articles/tree/currying)
-* [Знакомство с Aurora OS](https://github.com/keygenqt/articles/tree/auroraos_acquaintance)
-* [Сложность](https://github.com/keygenqt/articles/tree/complexity)
+* [Currying in Kotlin](https://github.com/keygenqt/articles/tree/currying)
+* [Introduction to Aurora OS](https://github.com/keygenqt/articles/tree/auroraos_acquaintance)
+* [Complexity](https://github.com/keygenqt/articles/tree/complexity)
 
 #### Linux
 
 * [Amazing Gif](https://github.com/keygenqt/articles/tree/amazing_gif)
 
-#### Философия
+#### Philosophy
 
-* [Становление философии.](https://github.com/keygenqt/articles/tree/philosophy)
-
+* [Становление философии](https://github.com/keygenqt/articles/tree/philosophy)
