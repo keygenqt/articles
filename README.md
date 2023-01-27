@@ -15,10 +15,6 @@ Articles
 
 # License
 
-[![CC_BY-SA_3_icon_88x31.png](data%2FCC_BY-SA_3_icon_88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
