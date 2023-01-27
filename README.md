@@ -1,10 +1,6 @@
 Articles
 ---
 
-[![CC_BY-SA_3_icon_88x31.png](data%2FCC_BY-SA_3_icon_88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-
-I share my knowledge. Publications are located on the site [https://keygenqt.com](https://keygenqt.com/blog)
-
 ![image1.gif](data%2Fimage1.gif)
 
 #### Programming
@@ -17,3 +13,4 @@ I share my knowledge. Publications are located on the site [https://keygenqt.com
 
 * [Amazing Gif](https://github.com/keygenqt/articles/tree/amazing_gif)
 
+[![CC_BY-SA_3_icon_88x31.png](data%2FCC_BY-SA_3_icon_88x31.png)](https://creativecommons.org/licenses/by/4.0/)
