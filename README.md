@@ -3,13 +3,13 @@ Articles
 
 ![image1.gif](data%2Fimage1.gif)
 
-#### Programming
+### Programming
 
 * [Currying in Kotlin](https://github.com/keygenqt/articles/tree/currying)
 * [Introduction to Aurora OS](https://github.com/keygenqt/articles/tree/auroraos_acquaintance)
 * [Complexity](https://github.com/keygenqt/articles/tree/complexity)
 
-#### Linux
+### Linux
 
 * [Amazing Gif](https://github.com/keygenqt/articles/tree/amazing_gif)
 
