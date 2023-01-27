@@ -11,6 +11,10 @@ Articles
 * [Знакомство с Aurora OS](https://github.com/keygenqt/articles/tree/auroraos_acquaintance)
 * [Сложность](https://github.com/keygenqt/articles/tree/complexity)
 
+#### Linux
+
+* [Amazing Gif](https://github.com/keygenqt/articles/tree/amazing_gif)
+
 #### Философия
 
 * [Становление философии.](https://github.com/keygenqt/articles/tree/philosophy)
