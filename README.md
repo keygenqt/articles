@@ -1,9 +1,15 @@
 My Blog
 ---
 
-### Подписывайтесь и ставьте лайки! <img src="data/common/star.gif" width="16px"/>
+### Подписывайтесь и ставьте лайки! <img src="docs/assets/images/common/star.gif" width="16px"/>
 
 ![image-main.gif](docs/assets/images/common/image-main.gif)
+
+<p>
+    <a href="https://keygenqt.github.io/articles/">
+        <img src="docs/assets/images/common/more.gif" width="200px"/>
+    </a>
+</p>
 
 ## License
 
