@@ -1,0 +1,107 @@
+site_name: My Blog
+site_url: https://keygenqt.github.io/articles/
+
+nav:
+  - Home:
+      - Home: index.md
+      - <span class="material-symbols-outlined">description</span> Articles: articles/aurora/index.md
+      - <span class="material-symbols-outlined">unknown_document</span> Helps: helps/index.md
+      - <span class="material-symbols-outlined">draw</span> Shorts: shorts/index.md
+      - <span class="material-symbols-outlined">history_edu</span> Verses: verses/index.md
+  - Articles:
+      - Aurora OS:
+        - Aurora OS: articles/aurora/index.md
+        - Знакомство с Aurora OS: 'articles/aurora/Знакомство с Aurora OS/index.md'
+        - Hello Emulator!: 'articles/aurora/Hello Emulator Aurora OS!/index.md'
+      - Other:
+        - Other: articles/other/index.md
+        - Сложность: 'articles/other/Сложность/index.md'
+        - Философия в ИТ: 'articles/other/Философия в ИТ/index.md'
+        - Каррирование в Kotlin: 'articles/other/Каррирование в Kotlin/index.md'
+        - Amazing Gif: 'articles/other/Amazing Gif/index.md'
+  - Helps:
+      - Helps: helps/index.md
+      - Toast in Aurora OS: 'helps/Toast in Aurora OS/index.md'
+      - Skeleton in Aurora OS: 'helps/Skeleton in Aurora OS/index.md'
+      - Splash in Aurora OS: 'helps/Splash in Aurora OS/index.md'
+  - Shorts:
+      - Shorts: shorts/index.md
+      - Единая вселенная: 'shorts/Единая вселенная/index.md'
+      - Предел эволюции: 'shorts/Предел эволюции/index.md'
+      - Голосование: 'shorts/Голосование/index.md'
+      - Гений: 'shorts/Гений/index.md'
+      - Бэкап: 'shorts/Бэкап/index.md'
+      - Охота: 'shorts/Охота/index.md'
+      - Соты: 'shorts/Соты/index.md'
+  - Verses:
+      - Verses: verses/index.md
+      - Высоковольтные лианы: 'verses/Высоковольтные лианы/index.md'
+      - Наука даст нам жизни вечность: 'verses/Наука даст нам жизни вечность/index.md'
+      - Огонь твой вспыхнет и погаснет: 'verses/Огонь твой вспыхнет и погаснет/index.md'
+      - Когда судьба тебе щебечет: 'verses/Когда судьба тебе щебечет/index.md'
+      - Где бизнес, нет личному места: 'verses/Где бизнес, нет личному места/index.md'
+      - Сословий крах принес свободу: 'verses/Сословий крах принес свободу/index.md'
+      - Ты пробовал работая учиться?: 'verses/Ты пробовал работая учиться?/index.md'
+      - Аврору я свою построил: 'verses/Аврору я свою построил/index.md'
+
+# Extra
+extra_css:
+  - https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0
+  - docs/assets/main.css
+  - /site/assets/main.css
+extra_javascript:
+  - https://code.jquery.com/jquery-3.6.3.min.js
+  - docs/assets/main.js
+  - /site/assets/main.js
+
+# Extensions
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+# Configuration
+theme:
+  name: 'material'
+  language: 'ru'
+  features:
+    - content.action.edit
+    - content.code.annotate
+    - content.code.copy
+    - content.tooltips
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    - navigation.prune
+    - toc.integrate
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono

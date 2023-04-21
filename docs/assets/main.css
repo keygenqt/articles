@@ -1,0 +1,82 @@
+/** Common **/
+.md-header div[data-md-component="header-title"] {
+    margin-left: 0.6rem;
+}
+.md-header a[data-md-component="logo"] {
+    display: none;
+}
+.md-sidebar {
+    width: 14rem;
+}
+[dir=ltr] .md-sidebar__inner {
+    padding-right: 20px;
+}
+.md-nav__list .md-nav__link {
+    justify-content: flex-start;
+}
+.md-nav__list .md-nav__link .material-symbols-outlined {
+    margin-right: 10px;
+}
+article img {
+    border-radius: 4px;
+    box-shadow: 0 0 5px #0000001a, 0 5px 10px #0003;
+    width: 100%;
+}
+article img.twemoji {
+    border-radius: initial;
+    box-shadow: none;
+    width: initial;
+}
+img[alt="image-main.gif"] {
+    background-color: #fdcc00;
+    max-height: 540px;
+    object-fit: cover;
+}
+img[alt="CC BY-SA 4.0"] {
+    width: initial;
+}
+h1 .material-symbols-outlined {
+    font-size: 34px;
+    position: relative;
+    top: 5px;
+    margin-right: 10px;
+}
+.md-main:before {
+    font-family: 'Material Symbols Outlined';
+    font-weight: normal;
+    font-style: normal;
+    content: "";
+    position: absolute;
+    color: #4051B5;
+    font-size: 450px;
+    opacity: 0.1;
+    bottom: 0;
+    right: -40px;
+}
+article {
+    position: relative;
+    z-index: 1;
+}
+
+/** Shorts **/
+img[alt="preview.webp"] {
+    height: 250px;
+    object-fit: cover;
+}
+
+/** Shorts **/
+.language-text code {
+    font-size: 16px;
+}
+
+/** Articles **/
+img[src="https://api.keygenqt.com/api/ps/file/ccdd9d6d-234f-40a1-934c-bbc3e319778b.gif"] {
+    border-radius: 30px;
+}
+
+@media (max-width: 1220px) {
+    .md-sidebar {
+        width: 12rem;
+    }
+}
+

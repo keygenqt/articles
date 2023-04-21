@@ -1,19 +1,9 @@
 My Blog
 ---
 
-[https://keygenqt.com/blog](https://keygenqt.com/blog)
+### Подписывайтесь и ставьте лайки! <img src="data/common/star.gif" width="16px"/>
 
-![image1.gif](data%2Fimage1.gif)
-
-## Programming
-
-* [Currying in Kotlin](https://github.com/keygenqt/articles/tree/currying)
-* [Introduction to Aurora OS](https://github.com/keygenqt/articles/tree/auroraos_acquaintance)
-* [Complexity](https://github.com/keygenqt/articles/tree/complexity)
-
-## Linux
-
-* [Amazing Gif](https://github.com/keygenqt/articles/tree/amazing_gif)
+![image-main.gif](docs/assets/images/common/image-main.gif)
 
 ## License
 
