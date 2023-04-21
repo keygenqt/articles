@@ -49,10 +49,12 @@ extra_css:
   - https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0
   - docs/assets/main.css
   - /site/assets/main.css
+  - /articles/assets/main.css
 extra_javascript:
   - https://code.jquery.com/jquery-3.6.3.min.js
   - docs/assets/main.js
   - /site/assets/main.js
+  - /articles/assets/main.js
 
 # Extensions
 markdown_extensions:
