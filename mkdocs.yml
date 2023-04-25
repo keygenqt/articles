@@ -11,39 +11,40 @@ nav:
   - Articles:
       - Aurora OS:
         - Aurora OS: articles/aurora/index.md
-        - Знакомство с Aurora OS: 'articles/aurora/Знакомство с Aurora OS/index.md'
-        - Hello Emulator!: 'articles/aurora/Hello Emulator Aurora OS!/index.md'
+        - Hello Emulator!: 'articles/aurora/12_04_2023/index.md'
+        - Знакомство с Aurora OS: 'articles/aurora/24_01_2023/index.md'
       - Other:
         - Other: articles/other/index.md
-        - Сложность: 'articles/other/Сложность/index.md'
-        - Философия в ИТ: 'articles/other/Философия в ИТ/index.md'
-        - Каррирование в Kotlin: 'articles/other/Каррирование в Kotlin/index.md'
-        - Amazing Gif: 'articles/other/Amazing Gif/index.md'
+        - Философия в ИТ: 'articles/other/18_03_2023/index.md'
+        - Amazing Gif: 'articles/other/27_01_2023/index.md'
+        - Каррирование в Kotlin: 'articles/other/26_01_2023/index.md'
+        - Сложность: 'articles/other/26_01_2021/index.md'
   - Helps:
       - Helps: helps/index.md
-      - Toast in Aurora OS: 'helps/Toast in Aurora OS/index.md'
-      - Skeleton in Aurora OS: 'helps/Skeleton in Aurora OS/index.md'
-      - Splash in Aurora OS: 'helps/Splash in Aurora OS/index.md'
+      - Toast in Aurora OS: 'helps/_1/index.md'
+      - Skeleton in Aurora OS: 'helps/_2/index.md'
+      - Splash in Aurora OS: 'helps/_3/index.md'
   - Shorts:
       - Shorts: shorts/index.md
-      - Единая вселенная: 'shorts/Единая вселенная/index.md'
-      - Предел эволюции: 'shorts/Предел эволюции/index.md'
-      - Голосование: 'shorts/Голосование/index.md'
-      - Гений: 'shorts/Гений/index.md'
-      - Бэкап: 'shorts/Бэкап/index.md'
-      - Охота: 'shorts/Охота/index.md'
-      - Соты: 'shorts/Соты/index.md'
+      - Гений: 'shorts/29_03_2022/index.md'
+      - Единая вселенная: 'shorts/28_03_2022/index.md'
+      - Предел эволюции: 'shorts/27_03_2022/index.md'
+      - Голосование: 'shorts/27_03_2022_2/index.md'
+      - Бэкап: 'shorts/26_03_2022/index.md'
+      - Охота: 'shorts/26_03_2022_2/index.md'
+      - Соты: 'shorts/15_03_2022/index.md'
   - Verses:
       - Verses: verses/index.md
-      - Высоковольтные лианы: 'verses/Высоковольтные лианы/index.md'
-      - Наука даст нам жизни вечность: 'verses/Наука даст нам жизни вечность/index.md'
-      - Огонь твой вспыхнет и погаснет: 'verses/Огонь твой вспыхнет и погаснет/index.md'
-      - Когда судьба тебе щебечет: 'verses/Когда судьба тебе щебечет/index.md'
-      - Где бизнес, нет личному места: 'verses/Где бизнес, нет личному места/index.md'
-      - Сословий крах принес свободу: 'verses/Сословий крах принес свободу/index.md'
-      - Ты пробовал работая учиться?: 'verses/Ты пробовал работая учиться/index.md'
-      - Аврору я свою построил: 'verses/Аврору я свою построил/index.md'
-      - И вот 10й скоро год: 'verses/И вот 10й скоро год/index.md'
+      - И вот 10й скоро год: 'verses/22_04_2023/index.md'
+      - Аврору я свою построил: 'verses/21_04_2023/index.md'
+      - Сословий крах принес свободу: 'verses/30_07_2020/index.md'
+      - Ты пробовал работая учиться?: 'verses/29_07_2020/index.md'
+      - Высоковольтные лианы: 'verses/28_07_2020/index.md'
+      - Наука даст нам жизни вечность: 'verses/27_07_2020/index.md'
+      - Где бизнес, нет личному места: 'verses/27_07_2020_2/index.md'
+      - Огонь твой вспыхнет и погаснет: 'verses/23_07_2020/index.md'
+      - Когда судьба тебе щебечет: 'verses/27_09_2019/index.md'
+
 
 # Extra
 extra_css:
