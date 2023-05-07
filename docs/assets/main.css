@@ -57,6 +57,12 @@ article {
     position: relative;
     z-index: 1;
 }
+.md-typeset__table {
+    width: 100%;
+}
+.md-typeset__table table {
+    display: inline-table !important;
+}
 
 /** Shorts **/
 img[alt="preview.webp"] {
