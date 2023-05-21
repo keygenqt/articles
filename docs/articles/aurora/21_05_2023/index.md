@@ -51,9 +51,9 @@ ifconfig
 И данные которые нам понадобятся для настройки:
 
 * IP macOS - у меня это `192.168.1.35`
-* Login юзера - у меня это `keygenqt`
+* Login юзера на macOS - у меня это `keygenqt`
 * IP Ubuntu server - у меня это `192.168.1.63`
-* Login юзера - у меня это `defaultuser`
+* Login юзера на сервере - у меня это `defaultuser`
 * Пароли к двум серверам - у меня это `the secret`
 
 Можно приступать.
