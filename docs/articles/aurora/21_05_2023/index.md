@@ -503,3 +503,7 @@ aurora_run
 ```
 
 ![Done!](data/Screenshot_10.png)
+
+<a target="_blank" href="https://youtu.be/EGNb8ByWc_Y">
+    <img src="../../../assets/images/common/btn_youtube.gif" style="height: 50px;">
+</a>
