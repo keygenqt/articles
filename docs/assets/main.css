@@ -86,3 +86,7 @@ img[src="https://api.keygenqt.com/api/ps/file/ccdd9d6d-234f-40a1-934c-bbc3e31977
     }
 }
 
+article a img {
+    box-shadow: none;
+    width: unset;
+}
