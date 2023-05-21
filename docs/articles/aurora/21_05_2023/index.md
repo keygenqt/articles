@@ -52,7 +52,7 @@ ifconfig
 
 * IP macOS - у меня это `192.168.1.35`
 * Login юзера - у меня это `keygenqt`
-* IP macOS - у меня это `192.168.1.63`
+* IP Ubuntu server - у меня это `192.168.1.63`
 * Login юзера - у меня это `defaultuser`
 * Пароли к двум серверам - у меня это `the secret`
 
