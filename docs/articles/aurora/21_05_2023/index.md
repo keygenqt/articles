@@ -487,7 +487,7 @@ echo 'alias aurora_run="~/aurora_scripts/run.sh"' >> ~/.zprofile
 source ~/.zprofile
 ```
 
-Теперь вы можете собрать совой первый проект на "Apple silicon" =)
+Теперь вы можете собрать свой первый проект на "Apple silicon" =)
 Удачи!
 
 ```shell
