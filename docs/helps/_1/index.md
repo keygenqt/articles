@@ -63,4 +63,4 @@ Page {
 
 ### Preview
 
-![my_gif.gif](data%2Fmy_gif.gif)
+![my_gif.gif](data/my_gif.gif)
